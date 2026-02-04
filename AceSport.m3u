@@ -35,13 +35,13 @@ acestream://bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
 acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
 
 
-#EXTINF:-1 tvg-name="ACETOP-1",ACE-1
+#EXTINF:-1 tvg-name="ACETOP-1",ACETOP-1
 acestream://65d49691687add6a93692a757817bac4f204ed1f
 
-#EXTINF:-1 tvg-name="ACETOP-2",ACE-2
+#EXTINF:-1 tvg-name="ACETOP-2",ACETOP-2
 acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
 
-#EXTINF:-1 tvg-name="ACETOP-3",ACE-3
+#EXTINF:-1 tvg-name="ACETOP-3",ACETOP-3
 acestream://99da47072cf6d0d9323479791026c48961889557
 
 
@@ -63,5 +63,6 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 tvg-name="Sky Sports UK",Sky Sports UK
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+
 
 
