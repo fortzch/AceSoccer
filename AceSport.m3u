@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="МАТЧ! ТВ",МАТЧ! ТВ
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+#EXTINF:-1 tvg-name="МАТЧ! Футбол 1",МАТЧ! Футбол 1
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1 tvg-name="МАТЧ! Футбол 2",МАТЧ! Футбол 2
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 tvg-name="МАТЧ! Футбол 3",МАТЧ! Футбол 3
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+
+#EXTINF:-1 tvg-name="МАТЧ! Премьер",МАТЧ! Премьер
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
+
+#EXTINF:-1 tvg-name="PimpleTV 1",PimpleTV 1
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+
+#EXTINF:-1 tvg-name="PimpleTV 2",PimpleTV 2
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1 tvg-name="PimpleTV 3",PimpleTV 3
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+
+#EXTINF:-1 tvg-name="PimpleTV 4",PimpleTV 4
+acestream://aca05dc506242324c1727525d0535ceda24f8dea
+
+#EXTINF:-1 tvg-name="PimpleTV 5",PimpleTV 5
+acestream://bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+
+#EXTINF:-1 tvg-name="PimpleTV 6",PimpleTV 6
+acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
+
+
+#EXTINF:-1 tvg-name="A-1",A-1
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+
+#EXTINF:-1 tvg-name="A-2",A-2
+acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
+
+#EXTINF:-1 tvg-name="A-3",A-3
+acestream://99da47072cf6d0d9323479791026c48961889557
+
+
+#EXTINF:-1 tvg-name="Setanta Sports",Setanta Sports
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1 tvg-name="Setanta Sports 2",Setanta Sports 2
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1 tvg-name="Телеканал Футбол",Телеканал Футбол
+acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+
+
+#EXTINF:-1 tvg-name="SKY-ME",SKY-ME
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-name="SKY-PL",SKY-PL
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-name="SKY-UK",SKY-UK
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
