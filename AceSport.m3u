@@ -54,6 +54,8 @@ acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-name="Телеканал Футбол",Телеканал Футбол
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 
+#EXTINF:-1 tvg-name="ТВ Старт",Тв Старт
+acestream://4b129146077c1e357e4ab341448b9fb629f939dc
 
 #EXTINF:-1 tvg-name="Sky Sports",Sky Sports
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
@@ -63,6 +65,7 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 tvg-name="Sky Sports UK",Sky Sports UK
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+
 
 
 
